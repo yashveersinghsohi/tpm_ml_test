@@ -1,4 +1,4 @@
-# Team Process Mapping Take-Home Task: [YOUR NAME HERE].
+# Team Process Mapping Take-Home Task: Yashveer Singh Sohi.
 
 Goal: In this pre-test, you will implement a feature extractor that detects sentiment from team conversations. Specifically, given an input of conversation data, you should output: (1) a sentiment label of ‘positive,’ ‘negative,’ or ‘neutral,’ alongside a score for each label, from 0-1. You will run your feature extractor on a dataset of team jury conversations.
 
